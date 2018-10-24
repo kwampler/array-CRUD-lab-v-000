@@ -7,7 +7,8 @@ students = ["Todd", "Amy", "Jay", "Tom"]
 end
 
 def add_element_to_end_of_array(array, element)
-  
+students = ["Todd", "Amy", "Jay", "Tom"]
+students.push("Jim")
 end
 
 def add_element_to_start_of_array(array, element)
