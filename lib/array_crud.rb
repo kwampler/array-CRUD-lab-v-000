@@ -17,7 +17,8 @@ students.unshift("wow")
 end
 
 def remove_element_from_end_of_array(array)
-  
+students = ["Todd", "Amy", "Jay", "Tom"]
+ tom = students.pop 
 end
 
 def remove_element_from_start_of_array(array)
